@@ -19,17 +19,13 @@ To run this project, you will need:
 1. Connect the MPU sensor to the Arduino using the wiring diagram provided in the "Arduino" folder.
 2. Upload the Arduino sketch provided in the "Arduino" folder to the Arduino board using the Arduino IDE.
 3. Open a terminal or command prompt window and navigate to the folder containing the Python code.
-4. Run the Python script "snake.py" using the command `python snake.py [difficulty]`, where [difficulty] is either "easy" or "hard" depending on the desired level of difficulty.
-5. Run the Python script "control.py" using the command `python control.py`.
+4. Run the Python notebook "Easy_Snake.ipynb" or "Hard_Snake.ipynb" depending on the desired level of difficulty.
+5. Run the Python notebook "Control_Code_Snake.ipynb" .
 6. Enjoy the game!
 
 ## Usage
 
-To play the game, hold the MPU sensor in your hand and tilt it in the direction you want the snake to move. The game will continue until the snake hits a wall or its own body. To exit the game, press the "ESC" key on your keyboard.
-
-## License
-
-This project is licensed under the MIT license. See the LICENSE file for details.
+To play the game, hold the MPU sensor in your hand and tilt it in the direction you want the snake to move. The game will continue until the snake hits a wall or its own body. To exit the game, click the window's `X` button.
 
 ## Acknowledgements
 
